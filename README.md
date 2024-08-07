@@ -1,4 +1,4 @@
-## Bridging the Gap: Digital Twin Integration and Evaluation in Robotic Multi-Axis Additive Manufacturing ##
+## Bridging the Gap: Digital Twin Integration and Evaluation in Robotic Multi-Axis Additive Manufacturing 3##
 
 This repository contains files for the paper titled "Bridging the Gap: Digital Twin Integration and Evaluation in Robotic Multi-Axis Additive Manufacturing," with Tomáš Jochman as the main author.
 
