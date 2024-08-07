@@ -32,3 +32,5 @@ This study explores integrating digital twin technology with robotic multi-axis 
 </video>
 
 [![Watch the video](https://img.youtube.com/vi/Vr6lDgBZacE/0.jpg)](https://youtu.be/Vr6lDgBZacE)
+
+{% include youtube.html id="JLMbpiywVxQ" %}
